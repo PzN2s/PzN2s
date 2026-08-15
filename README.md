@@ -1,15 +1,20 @@
 <p align="center">
-  <img src="banner.svg" alt="Reham" width="100%">
+  <b>Reham</b><br>
+  Python &amp; Linux tooling
 </p>
 
-## Things I do:
+<p align="center">
+  <b>Things I do:</b>
+</p>
 
-- **Python** — scripting, CLI tools, and automation
-- **Linux** — administration and systemd services
-- **NixOS** — configuration, packaging, and dev shells
-- **Git** — deployment and workflow automation
-- **PortPilot** — network monitoring and port scanning
+<p align="center">
+  Python scripting and CLI tooling<br>
+  Linux system administration and systemd services<br>
+  NixOS configuration, packaging, and dev shells<br>
+  Deployment and automation with Git<br>
+  Network monitoring and port scanning with PortPilot
+</p>
 
----
-
-_I use NixOS <3_
+<p align="center">
+  <i>I use NixOS &lt;3</i>
+</p>
