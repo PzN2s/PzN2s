@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <i>Building PortPilot</i> · <i>I use NixOS &lt;3</i>
+  <i>I use NixOS &lt;3</i>
 </p>
